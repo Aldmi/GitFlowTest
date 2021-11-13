@@ -1,1 +1,4 @@
 Init file 3
+
+New car1
+New car2

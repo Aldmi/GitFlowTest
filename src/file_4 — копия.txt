@@ -1,5 +1,0 @@
-Init file 5
-
-
-Add Bird 1
-Add Bird 2
